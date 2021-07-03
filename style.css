@@ -2,18 +2,20 @@ body {
      
     margin: 0;
     padding: 0;
+
      
      
 }
 
 h1{
-    color:green;
+    color:aqua;;
 }
 
 .z1 {
     color:indigo;
     border: 2px solid black ;
     text-align: center;
+    background-color:darkgrey;
 
 }
 
