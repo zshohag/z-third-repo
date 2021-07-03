@@ -1,3 +1,16 @@
 h1{
     color:green;
 }
+
+.z1 {
+    color:indigo;
+    border: 2px solid black ;
+    text-align: center;
+
+}
+
+
+p {
+    font-size: 24px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-transform: uppercase;
